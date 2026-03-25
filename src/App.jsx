@@ -47,7 +47,7 @@ function App() {
           </h2>
           <p className="text-lg md:text-xl text-stone-600 leading-relaxed max-w-2xl">
             I am a first-year graduate student in the Department of Electrical Engineering at 
-            National Taiwan University (NTU), specializing in <span className="font-semibold text-stone-800">Cybersecurity</span>.
+            National Taiwan University (NTU), specializing in cybersecurity.
           </p>
         </section>
         
