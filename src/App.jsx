@@ -43,7 +43,7 @@ function App() {
             Welcome to my personal space
           </div>
           <h2 className="text-4xl md:text-6xl font-extrabold text-stone-900 mb-6 leading-tight">
-            Hi, I'm <span className="text-orange-600">R14921A05 Fu-Hsiang Huang </span>.
+            Hi, I'm <span className="text-orange-600">R14921A05 Fu-Hsiang Huang</span>.
           </h2>
           <p className="text-lg md:text-xl text-stone-600 leading-relaxed max-w-2xl">
             I am a first-year graduate student in the Department of Electrical Engineering at 
