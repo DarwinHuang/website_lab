@@ -55,7 +55,8 @@ function App() {
           <div className="w-full h-64 md:h-96 rounded-3xl bg-orange-100 overflow-hidden relative group border-4 border-white shadow-xl">
 
             <img 
-              src="/images/profile.jpg" 
+              //src="images/profile.jpg"
+              src={`${import.meta.env.BASE_URL}images/profile.jpg`} 
               alt="Fu-Hsiang Huang" 
               className="w-full h-full object-cover grayscale-[20%] group-hover:grayscale-0 transition-all duration-500"
               onError={(e) => {
